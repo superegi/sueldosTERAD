@@ -1,0 +1,21 @@
+# Entorno virtual
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de datos (por privacidad)
+*.xlsx
+*.csv
+*.xlsm
+data/
+*.log
+
+# Configuración local
+.env
+*.sqlite3
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
