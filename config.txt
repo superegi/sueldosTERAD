@@ -1,0 +1,10 @@
+# Archivo de entrada
+archivo = data/studies-excel-20251031094110.xlsx
+
+# Fechas Tecnólogos
+inicio_tm = 2025-09-26 08:00
+fin_tm    = 2025-10-31 08:00
+
+# Fechas Radiólogos
+inicio_rad = 2025-09-26 08:00
+fin_rad    = 2025-10-31 08:00
